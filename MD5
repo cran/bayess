@@ -1,5 +1,5 @@
-9248c81c0c05b93cc03152c7a9c7face *DESCRIPTION
-e892920e40534b3066a5d140df16bd10 *NAMESPACE
+6efbfb243bff0107da34689dcb72f9ad *DESCRIPTION
+71470af4836b594b282a7c53fa6a522c *NAMESPACE
 9a6af2441f3dce28d2eececd30ca11c5 *R/ARllog.R
 13cf11457074118d02322b586769d022 *R/ARmh.R
 93fe57239ff88819228a5cbfe1d564fd *R/BayesReg.R
@@ -13,12 +13,12 @@ d22c8e8701146671e91fdb8bbf95ab5d *R/gibbs.R
 44299e1bf314e079276e83883cd4bb2b *R/gibbsmean.R
 f3db4392159b0cba458278cdf4632171 *R/gibbsnorm.R
 a27483ae2ae79da0116e140e92aeca83 *R/hmflatlogit.R
-f596b484dde07057047a72f7471b8f2b *R/hmflatloglin.R
+5708fbb581e8bf72da2f7dc3eef9cf5d *R/hmflatloglin.R
 bfd1bbd6fc7c37f397c46915c438b32b *R/hmflatprobit.R
 c09e83276ff08542b7340ac674bbe276 *R/hmhmm.R
 686357fac527b8faaab5d6147d752734 *R/hmmeantemp.R
 8df7875f382fd711f7e4ca9a2f9f20e1 *R/hmnoinflogit.R
-cd3b196355ea1c4b15695db1e1d3dc8e *R/hmnoinfloglin.R
+7bd44062bf7317dababaff0f7e0449f0 *R/hmnoinfloglin.R
 f795f104a8b24b1dae9dd20f0c921e66 *R/hmnoinfprobit.R
 966929cf6c17bb9244e15db44901a2eb *R/isinghm.R
 2689f20484762a5c4f19bd0be7d16c3d *R/isingibbs.R
@@ -26,9 +26,9 @@ c208fd3f5cb782932f1e7e00777aa71b *R/logitll.R
 39070c4f46421b37972be8acd3b78b78 *R/logitnoinflpost.R
 a5b2544ae0a4923ee486e522ae31015b *R/loglinll.R
 99d79c7d6c9bfd0aed8842eb72c0764f *R/loglinnoinflpost.R
-548ae1245aa0d00a09c7ec33fc8812c4 *R/pbino.R
-2e727c958e2c17e5d20ea9f526c21eb4 *R/pcapture.R
-ae28c7e4df58ceb435036c97af3a5e4d *R/pdarroch.R
+57e58ac8805316d4989bd5d0b91d3dd4 *R/pbino.R
+fbb432b168dfb5ca49783ae142d17fab *R/pcapture.R
+ca9e39fac4c4c69f1161e76c9a8b58a4 *R/pdarroch.R
 e610c8ea16ab55a382595efc340313dc *R/plotmix.R
 1eb432826ee69b68f8c785ecfad8969e *R/pottsgibbs.R
 fc19a2b81e6569efbe5a6483b613caae *R/pottshm.R
@@ -39,7 +39,7 @@ a9ec41079e8d030d02ae000fe1492f86 *R/probet.R
 eb4db72d0b6e83c9ca4b58125de7a330 *R/reconstruct.R
 0dd81a7a97cec48e420a57ade539e767 *R/solbeta.R
 887093437960da64195b702451701368 *R/sumising.R
-9606a605e2a7b01a23537366128094d6 *R/thresh.R
+6a0e60c5e730ab5f350ae78db4077131 *R/thresh.R
 ab248a0e52eb5099632c972f7e28aea1 *R/truncnorm.R
 883d9ace9efc1df3cb50ef2e13987c2a *R/xneig4.R
 2513028c069b6d3e538878a486e92d38 *data/Dnadataset.txt.gz
