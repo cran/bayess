@@ -1,4 +1,4 @@
-6efbfb243bff0107da34689dcb72f9ad *DESCRIPTION
+082195410224146c1e81dfd93e7d740b *DESCRIPTION
 71470af4836b594b282a7c53fa6a522c *NAMESPACE
 9a6af2441f3dce28d2eececd30ca11c5 *R/ARllog.R
 13cf11457074118d02322b586769d022 *R/ARmh.R
@@ -42,6 +42,7 @@ eb4db72d0b6e83c9ca4b58125de7a330 *R/reconstruct.R
 6a0e60c5e730ab5f350ae78db4077131 *R/thresh.R
 ab248a0e52eb5099632c972f7e28aea1 *R/truncnorm.R
 883d9ace9efc1df3cb50ef2e13987c2a *R/xneig4.R
+776919bdbff387a3d5db4fcd29194669 *README.md
 2513028c069b6d3e538878a486e92d38 *data/Dnadataset.txt.gz
 a22835d01dfd12f25215f320b9f85c6b *data/Eurostoxx50.txt.gz
 d62b5b2b08e9420b87455b0bf8a90a62 *data/Laichedata.txt.gz
@@ -60,7 +61,7 @@ fdeca5bc3460779b5c836218b15b4fd3 *demo/Chapter.5.R
 687304666cb921b6b5b468f0ac9dca0e *demo/Chapter.6.R
 afb7bfe7cc0758d582ece5d2b91f1153 *demo/Chapter.7.R
 4c6faf05f8f63c3cdb1e899381c823a4 *demo/Chapter.8.R
-c670d042487c63b15632e24138c80a3a *man/ARllog.Rd
+a25d7ae37f8dec9fd2165e29a3a820e7 *man/ARllog.Rd
 9fdd9bd284076bde8dc3f6c99d7c27ac *man/ARmh.Rd
 283349d2523b8c15e8cc942aa5361c9f *man/BayesReg.Rd
 97ad560bfbfa0d2522cc02ea1381f8f0 *man/Dnadataset.Rd
@@ -70,11 +71,11 @@ ce8b767874c705bd0d1e0e145193657b *man/Eurostoxx50.Rd
 91428f660cec4c85398ec9f9e2bd548a *man/MAmh.Rd
 c6aa644e88bc6ee9b58979e544a72155 *man/Menteith.Rd
 1fe19426d9094578f9f53701374a6e11 *man/ModChoBayesReg.Rd
-8553f0313b2a2b500050496d53072fa8 *man/ardipper.Rd
+866b18b3d6220c692fe825393959b1da *man/ardipper.Rd
 0413236a4082eabdf5bc85432e9717d5 *man/bank.Rd
 09e2c785c3c0fb341e717c00c3bf769b *man/caterpillar.Rd
 4269c08c3ffe8a8c911c2e20ed5ad332 *man/datha.Rd
-f6371ee79e324ef5bf6466f0c23a6bdc *man/eurodip.Rd
+f9fa805a7b21a79265cb70e244a14a8b *man/eurodip.Rd
 ac4678754d7a2cfaf235b28a99406026 *man/gibbs.Rd
 a2751fd9ef89b1632d5b8c2ddb9e1220 *man/gibbs2.Rd
 8f9f21469d2ffe4c21df366b880564ad *man/gibbs3.Rd
@@ -84,7 +85,7 @@ a2751fd9ef89b1632d5b8c2ddb9e1220 *man/gibbs2.Rd
 35b4526368db22fa79b253cbc7419858 *man/hmflatloglin.Rd
 dbc404a1cfb8ee1700468801bf0d6fcf *man/hmflatprobit.Rd
 56592bfe17b495039b2d57f743e89874 *man/hmhmm.Rd
-b12180c34dd0c813e3a8358cb8d0e537 *man/hmmeantemp.Rd
+82a3a4a13ea15a82b8cfa9c83fa80dfe *man/hmmeantemp.Rd
 5e588e1d1bf997da80bc564bca0db219 *man/hmnoinflogit.Rd
 605642aea1d4cbb2c35dd0436eb6c5e4 *man/hmnoinfloglin.Rd
 e7a9dba3aa69859dd5c786977fed2db2 *man/hmnoinfprobit.Rd

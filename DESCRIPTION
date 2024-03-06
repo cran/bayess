@@ -1,7 +1,7 @@
 Package: bayess
 Title: Bayesian Essentials with R
-Version: 1.5
-Date: 2022-08-10
+Version: 1.6
+Date: 2024-03-04
 Depends: stats, mnormt, gplots, combinat
 Author: Jean-Michel Marin [aut, cre],
         Christian P. Robert [aut]  
@@ -14,6 +14,6 @@ Description: Allows the reenactment of the R programs used in
 URL: https://www.r-project.org, https://github.com/jmm34/bayess
 License: GPL-2
 NeedsCompilation: no
-Packaged: 2022-08-10 08:42:41 UTC; jmm
+Packaged: 2024-03-04 10:30:19 UTC; marin
 Repository: CRAN
-Date/Publication: 2022-08-11 10:30:08 UTC
+Date/Publication: 2024-03-06 14:30:05 UTC
